@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 import fetchData from './http';
 import getLevel from './add';
 
